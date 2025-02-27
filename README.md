@@ -40,7 +40,7 @@ python ordenacion_matriz.py
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/matriz_utils.git
+   git clone https://github.com/Christianmb06/Busqueda-Ordenacion-de-Matriz.git
    ```
 2. Accede a la carpeta del proyecto:
    ```bash
@@ -54,3 +54,8 @@ Las contribuciones son bienvenidas. Puedes abrir un issue o enviar un pull reque
 ## Licencia
 Este proyecto está bajo la licencia MIT.
 
+## Contacto
+Christian Marquez/Christianmb06 - cf.marquezb@uea.edu.ec
+
+## Agradecimientos
+Agradecimientos a cualquier persona o recurso que haya contribuido a este proyecto.
